@@ -2,7 +2,7 @@
 
 **Author:** R. L. Akahoshi
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16879579.svg)](https://doi.org/10.5281/zenodo.16879579)
 This repository contains the source files for the paper on the Rhythmic Attunement Theory (RAT).
 
 **[>> Click here to view the final PDF <<](rat_english.pdf)** ---
